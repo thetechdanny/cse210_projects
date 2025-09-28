@@ -13,7 +13,7 @@ class Words
     public void Hide()
     {
         _isHidden = true;
-    }
+     }
 
     public void Show()
     {
