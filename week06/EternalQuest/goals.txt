@@ -1,0 +1,2 @@
+0
+SimpleGoal:Writing code daily,I will write and study to write codes daily,100,False

@@ -1,0 +1,4 @@
+0
+SimpleGoal:Code Writing Goal,I should write at least 100 lines of code per day,100,False
+EternalGoal:Reading the Scriptures,I should read the scriptures for at least 10mins per day,100
+ChecklistGoal:Daily Itenerary,Listen to music,50,300,3,0
